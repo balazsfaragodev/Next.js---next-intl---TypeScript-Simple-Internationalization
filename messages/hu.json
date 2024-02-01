@@ -1,0 +1,11 @@
+{
+    "Index": {
+        "title": "Szia Világ!",
+        "getStarted": "Kezdd el a szerkesztést",
+        "about": "rólunk"
+    },
+    "About": {
+        "aboutText": "Az 'About' oldal bemutatja cégünk vagy projektünk alapvető információit, küldetését és értékeit. Csatlakozz hozzánk, hogy együtt formálhassuk a jövőt!",
+        "home": "vissza a főoldalra"
+    }
+}

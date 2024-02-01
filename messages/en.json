@@ -1,0 +1,11 @@
+{
+    "Index": {
+        "title": "Hello world!",
+        "getStarted": "Get started by editing",
+        "about": "about"
+    },
+    "About": {
+        "aboutText": "The 'About' page provides essential information about our company or project, including our mission and values. Join us to shape the future together!",
+        "home": "back to home"
+    }
+}
